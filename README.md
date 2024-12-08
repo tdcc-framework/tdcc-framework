@@ -4,7 +4,7 @@
 
 TDCC(Thick-Dynamic-Customer Centric Framework) Framework는 데이터에 기반하여 성공적인 모바일/웹 제품을 만들기 위한 Framework입니다.
 
-<img src = "../../resources/image/readme/1.png">
+<img src = "./resources/image/readme/1.png">
 
 Growth Framework의 발전 맥락
 
@@ -16,7 +16,7 @@ TDCC는 이러한 Agile Framework와 Grwoth Hacking, Lean Analytics의 철학을
 
 이전의 Framework와는 다르게, TDCC Framework는 중층적, 고객 중심적, 동적이라는 세 가지 가치를 중심으로 두고 있습니다. TDCC의 특징을 가장 잘 설명해줄 수 있는 방법은 최근의 Product Growth Framework인 Grwoth Hacking, Lean Analytics과 비교해보는 것입니다. 이 둘을 비교하면 아래와 같습니다.
 
-<img src = "../../resources/image/readme/2.png">
+<img src = "./resources/image/readme/2.png">
 
 Growth Hacking / Lean Analytics와 TDCC의 비교
 
@@ -41,17 +41,19 @@ Growth Hacking, Lean Analytics는 단층적, 아이디어 중심적, 정적이�
 - 이는 정의한 문제나 고객에 대한 가정들 등이 잘못되었을 수도 있고, 잘못되지는 않더라도 그보다 더 좋은 것들로 대체될 수 있기 때문입니다.
 - TDCC는 피드백을 통해 동적으로 문제와 가정들, 가설과 실행안이 개선되고 발전하며, 비록 처음에는 다소 초점이 맞지 않았더라도 빠르게 고객을 중심으로 초점이 맞아갈 수 있도록 하는 것을 목표로 하고 있습니다.
 
+# 배경
 
-TDCC Framework는 크게 Framework의 템플릿과 해당 템플릿의 구성요소를 작성하는 방법을 담고 있는 가이드로 구성되어 있습니다. 이 중에서 템플릿은 현재 노션을 통해, 가이드는 본 Repository를 통해 제공됩니다.
+TDCC Framework는 크게 Framework와 해당 Framework의 구성요소를 작성하는 방법을 담은 Guide로 구성되어 있습니다. 이 중에서 Framework는 현재 노션을 통해, Guide는 본 Repository를 통해 제공되고 있습니다.
 
-템플릿
+Framework
 
-- [템플릿 노션](https://www.notion.so/TDCC-793699ffc34f4fa59dca40740ee8a689)
+- [템플릿 노션:](https://www.notion.so/TDCC-793699ffc34f4fa59dca40740ee8a689) 복제해서 사용할 수 있는 예시 Framework를 담고 있는 노션 페이지입니다.
 
-가이드
+Guide
 
-- [Overview: Framework 전반과 그 구조에 대한 설명입니다](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/overview/%EA%B0%9C%EC%9A%94.md)
-- Object 가이드: Framework를 구성하는 Object들을 어떻게 작성할지에 대한 내용을 담고 있습니다.
+- [Overview:](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/overview/%EA%B0%9C%EC%9A%94.md) Framework 전반과 그 구조에 대한 설명입니다.
+- [init Guide:](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/init/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md) 애자일 팀이 어떻게 Framework를 시작할지 예시를 통해 설명합니다.
+- Object Guide: Framework를 구성하는 Object들을 어떻게 작성할지에 대한 내용을 담고 있습니다.
     - [문제](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EB%AC%B8%EC%A0%9C.md)
     - [세부문제](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EC%84%B8%EB%B6%80%EB%AC%B8%EC%A0%9C.md)
     - [멘탈모델](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EB%A9%98%ED%83%88%EB%AA%A8%EB%8D%B8.md)
@@ -59,5 +61,4 @@ TDCC Framework는 크게 Framework의 템플릿과 해당 템플릿의 구성요
     - [실행안](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EC%8B%A4%ED%96%89%EC%95%88.md)
     - [분석](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EB%B6%84%EC%84%9D.md)
     - [피드백](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%ED%94%BC%EB%93%9C%EB%B0%B1.md)
-- [Proposal 가이드: Framework 내 Object들을 발전시키는 방법에 대한 가이드입니다.](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/proposal/Proposal.md)
-- [init 가이드: 애자일 팀이 어떻게 Framework를 도입할지를 보여줍니다.](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/init/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- [Proposal Guide:](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/proposal/Proposal.md) Framework 내 Object들을 지속적으로 개선하고 발전시키는 방법에 대한 가이드입니다.
