@@ -101,7 +101,7 @@ Object에 어떤 작업을 할지를 결정합니다. 존치/개선/삭제가 �
 
 # Proposal의 진행
 
-![스크린샷 2024-09-24 오전 2.38.45.png](Proposal%20c16b896fe0474dba8d1d7f439f348853/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-09-24_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_2.38.45.png)
+<img src = "../../resources/image/guide/proposal/1.png">
 
 Proposal은 아래와 같은 단계로 진행되며 이는 TDCC 소개에서 설명했던 내용과 동일합니다. 다만, Proposal의 종류에 따라 위 단계를 모두 진행하지 않고 일부 생략하여 진행할 수 있다는 점을 추가적으로 설명하고자 합니다.
 
@@ -115,4 +115,4 @@ Conception Level Proposal은 제품 개선 과정의 근간을 이루는 문제�
 
 # Reference
 
-https://ansubin.com/ethereum-improvement-proposals/
+[EIP Purpose and Guidelines](https://eips.ethereum.org/EIPS/eip-1). Ethereum Improvement Proposal 
