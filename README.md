@@ -43,7 +43,7 @@ TDCC Framework는 크게 Framework와 해당 Framework의 구성요소를 작성
 
 Framework
 
-- [템플릿 노션:](https://www.notion.so/TDCC-793699ffc34f4fa59dca40740ee8a689) 복제해서 사용할 수 있는 예시 Framework를 담고 있는 노션 페이지입니다.
+- [템플릿 노션:](https://www.notion.so/TDCC-793699ffc34f4fa59dca40740ee8a689) 복제해서 사용할 수 있는 예시 Framework를 담고 있는 노션 페이지입니다. (현재 수정작업중입니다)
 
 Guide
 
