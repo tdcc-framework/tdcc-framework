@@ -167,10 +167,12 @@ Framework
 Guide
 
 - Description Guide: 문제 정의와 고객에 대한 이해 및 기회-인과 그래프에 대한 설명들입니다.
-    - [문제트리](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EB%AC%B8%EC%A0%9C.md)
-    - [멘탈모델](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EB%A9%98%ED%83%88%EB%AA%A8%EB%8D%B8.md)
-    - [기회-인과 그래프](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EA%B0%80%EC%84%A4.md)
+    - [문제트리](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/Description/%EB%AC%B8%EC%A0%9C%ED%8A%B8%EB%A6%AC.md)
+    - [멘탈모델](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/Description/%EB%A9%98%ED%83%88%EB%AA%A8%EB%8D%B8.md)
+    - [기회-인과 그래프](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/Description/%EA%B8%B0%ED%9A%8C-%EC%9D%B8%EA%B3%BC%EA%B7%B8%EB%9E%98%ED%94%84.md)
+
 - Execution Guide: 실행안과 분석을 담고 있는 실행보드를 만드는 방법에 대한 가이드입니다.
-    - [실행보드](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%EC%8B%A4%ED%96%89%EC%95%88.md)
+    - [실행보드](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/Execution/%EC%8B%A4%ED%96%89%EB%B3%B4%EB%93%9C.md)
+
 - Improvement Guide: 분석 결과에 따라 어떻게 Description을 발전시킬지에 대한 내용을 담고 있습니다
-    - [제안로그](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/object/%ED%94%BC%EB%93%9C%EB%B0%B1.md)
+    - [제안로그](https://github.com/tdcc-framework/tdcc-framework/blob/main/guide/Improvement/%EC%A0%9C%EC%95%88%EB%A1%9C%EA%B7%B8.md)
